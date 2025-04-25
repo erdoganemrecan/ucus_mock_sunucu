@@ -1,0 +1,24 @@
+[
+    {
+        "Havayolu": "Emirates",
+        "Kalkış": "DXB",
+        "Varış": "IST",
+        "Kalkış Saati": "10:30",
+        "Varış Saati": "14:20",
+        "Süre": "4h50",
+        "Fiyat (AED)": 1250,
+        "Tarih": "15/05/2025",
+        "Satın Alma Linki": "https://www.emirates.com"
+    },
+    {
+        "Havayolu": "Qatar Airways",
+        "Kalkış": "DXB",
+        "Varış": "IST",
+        "Kalkış Saati": "15:45",
+        "Varış Saati": "20:10",
+        "Süre": "5h25",
+        "Fiyat (AED)": 1380,
+        "Tarih": "15/05/2025",
+        "Satın Alma Linki": "https://www.qatarairways.com"
+    }
+]
